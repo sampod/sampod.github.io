@@ -5,6 +5,7 @@
 Tämä tulee github sitesistä.
 
 * [My eplan cheat sheet](http://gh.heino.cc/cs-eplan.html)
+* [My CADS cheat sheet](http://gh.heino.cc/cs-cads.html)
 
 ## links
 
