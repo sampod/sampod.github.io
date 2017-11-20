@@ -4,6 +4,7 @@
 
 Tämä tulee github sitesistä.
 
+* [http://gh.heino.cc/cs-eplan.html] My eplan cheat sheet
 
 ## links
 
