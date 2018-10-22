@@ -2,5 +2,7 @@
 Sami Heino's eplan cheat sheet
 http://gh.heino.cc
 
-* V         Move
-* CTRL + B  Move property text
+* V	Move
+* CTRL + B	Move property text
+* CTRL + SHIFT + R	Modify rotation angle of 3D macro
+* A	Change handle in 3D mounting layout navigator
