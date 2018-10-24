@@ -12,7 +12,7 @@ http://gh.heino.cc
 This is my own reduced version of official help document. This version includes only commands which I use on regular basis. Full list can be found at: 
 [Eplan.help - Overview of Shortcut Keys](https://www.eplan.help/help/platform/2.7/en-US/help/EPLAN_Help.htm#htm/gededitgui_k_tastaturbefehle.htm#kanchor426).
 
-Ulkoisen STEP-tiedoston tuonti
+## Ulkoisen STEP-tiedoston tuonti
 - Avaa Macro-projekti (Type of project == Macro Project)
 - Valikosta: Layout Space -> Import (3D graphic) ja valitse STEP-tiedosto, josta tuonti tehdään
 - Ote näkyviin Layout space navigator jos ei ole jo
