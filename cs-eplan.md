@@ -20,7 +20,7 @@ Ulkoisen STEP-tiedoston tuonti
 - Layout space navigatorista paina tuotuun malliin oikeaa hiiren nappia, ja valitse properties
 - Lisää ja täytä Properties'it Macro: Name ja Macro: Variant (Macro name on Macron tiedoston sijainti)
 - Sitten pyöritä kappaletta sen verran, että näet pinnan, joka asennetaan esim oveen tai asennuslevylle tms (valikosta view -> rotate viewing angle)
-- lisää mounting surface (edit -> device logic -> mounting surface) ja valitse asennuspinta
+- lisää placement area (edit -> device logic -> placement area -> define) ja valitse 
 - sitten vielä lisää handle (edit -> device logic -> define handle)
 - macro on nyt valmis! \o/
 - jos kaikki asetukset ovat oikein ja kivasti, niin macrot saa päivitettyä oikeisiin paikkoisin valitsemalla valikosta: Procject data -> MAcros -> Generate automatically...
