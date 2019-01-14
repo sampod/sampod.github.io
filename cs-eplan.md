@@ -27,3 +27,9 @@ This is my own reduced version of official help document. This version includes 
 - sitten vielä lisää handle (edit -> device logic -> define handle)
 - macro on nyt valmis! \o/
 - jos kaikki asetukset ovat oikein ja kivasti, niin macrot saa päivitettyä oikeisiin paikkoisin valitsemalla valikosta: Procject data -> MAcros -> Generate automatically...
+
+## Eplan 2.8 projektien väritunnukset:
+Aktivoi project gourps värit (rasti ruutuun color activated):
+- Settings -> user -> display -> Project groups
+Projektille asetetaan 
+- Projects -> [projekti] -> display -> project group
