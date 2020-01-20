@@ -8,6 +8,7 @@ http://gh.heino.cc
 | D                | Duplicate window (selection area)
 | V                | Move
 | CTRL + B         | Move property text
+| CTRL + S         | Insert special character
 | CTRL + SHIFT + R | Modify rotation angle of 3D macro
 
 This is my own reduced version of official help document. This version includes only commands which I use on regular basis. Full list can be found at: 
