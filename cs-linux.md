@@ -10,6 +10,8 @@ Hyvä tietopankki suomenkielellä: [Linux.fi wiki](http://linux.fi/wiki).
 
 `ethtool eth0` näyttää tietoja eth0:n tilasta.
 
+`# ethtool -s eth0 speed 100 duplex full` Asettaa eth0:n 100M nopeudelle.
+
 `chmod -R a+rX *` asettaa kaikille lukuoikeudet kaikkiin tiedostoihin sekä hakemistoihin.
 
 `screen /dev/ttyUSB0 115200` avaa sarjaliikenneportin screeniin.
