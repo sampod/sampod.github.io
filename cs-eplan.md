@@ -31,15 +31,15 @@ This is my own reduced version of official help document. This version includes 
 
 ## Eplan 2.8 projektien väritunnukset:
 Aktivoi project gourps värit (rasti ruutuun color activated):
-- Settings -> user -> display -> Project groups
+- Settings -> user -> display -> Project groups\
 Projektille asetetaan 
 - Projects -> [projekti] -> display -> project group
 
 ## Layout model view:n teko:
-reports -> generate -> reports -> new
-  output format: manual placement
-  enclosure legend
-  manual selection
-  -> ok
-valitse layout josta tehdään -> ok
-form f18_005 -> ok
+reports -> generate -> reports -> new \
+  output format: manual placement\
+  enclosure legend\
+  manual selection\
+  -> ok\
+valitse layout josta tehdään -> ok\
+form f18_005 -> ok\
