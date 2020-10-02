@@ -34,3 +34,12 @@ Aktivoi project gourps värit (rasti ruutuun color activated):
 - Settings -> user -> display -> Project groups
 Projektille asetetaan 
 - Projects -> [projekti] -> display -> project group
+
+## Layout model view:n teko:
+reports -> generate -> reports -> new
+  output format: manual placement
+  enclosure legend
+  manual selection
+  -> ok
+valitse layout josta tehdään -> ok
+form f18_005 -> ok
