@@ -10,7 +10,7 @@ win+shift+s avaa snippingin
 
 Rikkinäisen Windowsin korjailua
 ---------------
-`sfs /scannow` Tsekaus
+`sfc /scannow` Tsekaus
 
 `Dism /Online /Cleanup-Image /CheckHealth` Tsekkaus
 
