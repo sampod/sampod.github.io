@@ -43,3 +43,8 @@ reports -> generate -> reports -> new \
   -> ok\
 valitse layout josta tehdään -> ok\
 form f18_005 -> ok\
+
+## Kappaleiden sijoittaminen model view'ssä
+Kun olet sijoittamassa kappaletta, niin oikean painikkeen alta löytyy
+mm. snap to mounting surface ym, jotka saa tarvittaessa päälle/pois. 
+Lisäksi valikosta löytyy esim mounting options.
