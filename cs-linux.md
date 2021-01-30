@@ -104,4 +104,5 @@ python3
 `sudo python3 -m venv system_sensors/`\
 tarvitaan ainakin \
 `sudo apt-get install python3-venv  build-essential python3-dev`\
-`pip3 install wheel`
+`pip3 install wheel`\
+`pip3 install -r requirements.txt`
