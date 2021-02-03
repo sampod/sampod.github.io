@@ -98,3 +98,11 @@ Siirrä ensiksi kryptattu varmuuskopio palvelimelta hakemistoon /tmp/crypt-view/
 ](http://pwet.fr/man/linux/commandes/encfs)[encfs intro](http://www.arg0.net/encfsintro)\
 [linux.com](http://www.linux.com/archive/feed/52820)
 
+python3
+-------
+ venv luonti\
+`sudo python3 -m venv system_sensors/`\
+tarvitaan ainakin \
+`sudo apt-get install python3-venv  build-essential python3-dev`\
+`pip3 install wheel`\
+`pip3 install -r requirements.txt`
