@@ -48,3 +48,6 @@ form f18_005 -> ok\
 Kun olet sijoittamassa kappaletta, niin oikean painikkeen alta löytyy
 mm. snap to mounting surface ym, jotka saa tarvittaessa päälle/pois. 
 Lisäksi valikosta löytyy esim mounting options.
+
+## The navigator which is always lost in Pro Panel
+That is; 3D mounting layout navigator [Project data > Parts / Devices > 3D mounting layout navigator.]
