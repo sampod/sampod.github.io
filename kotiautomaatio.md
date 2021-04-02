@@ -24,7 +24,7 @@ kaikki järjestelmät yhteen käyttöliittymään sekä keskitettyyn automaatioo
 * Rauta: [Zig-a-zig-ah TI CC2652R](https://electrolama.com/projects/zig-a-zig-ah/)
 
 ### Z-wave
-* Softa: [zwavejs2mqtt](https://zwave-js.github.io/)
+* Softa: [zwavejs2mqtt](https://zwave-js.github.io/zwavejs2mqtt/#/)
 * Rauta: UZB
 
 
